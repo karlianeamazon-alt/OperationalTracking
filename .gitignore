@@ -1,4 +1,3 @@
-# Ignorar arquivos grandes que não são do app
 *.exe
 *.zip
 *.msi
