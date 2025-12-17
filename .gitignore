@@ -1,0 +1,6 @@
+# Ignorar arquivos grandes que não são do app
+*.exe
+*.zip
+*.msi
+.vscode/
+__pycache__/
